@@ -1,0 +1,4 @@
+Date,OrderID,Product,Category,Region,CustomerID,Quantity,UnitPrice,Sales
+2024-01-03,1001,Widget A,Widgets,North,CUST001,2,9.99,19.98
+2024-01-05,1002,Gadget B,Gadgets,South,CUST002,1,29.99,29.99
+2024-01-10,1003,Widget A,Widgets,East,CUST003,5,9.99,49.95
