@@ -48,8 +48,8 @@
 - Platform: Google Colab
 
 🎯 Outcome
-- This project demonstrates:
-   a. Professional data cleaning, aggregation, and visualization
-   b. Time-series and correlation analysis
-   c. Clear, actionable insights
-   d. Ready-to-share, interactive analysis using Google Colab
+This project demonstrates:
+- Professional data cleaning, aggregation, and visualization
+- Time-series and correlation analysis
+- Clear, actionable insights
+- Ready-to-share, interactive analysis using Google Colab
